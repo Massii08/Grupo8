@@ -1,1 +1,1 @@
-En esta carpeta se encontrara la documentacion 
+- Revisar ambas entrevistas 
