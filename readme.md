@@ -1,5 +1,7 @@
 # Proximas fechas importantes 
 
+Fin sprint 3 - 20 junio 
+
 ## Sprint Actual  
                  Arreglar GANTT
                  Subir MER - MR 
