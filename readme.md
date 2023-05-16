@@ -1,10 +1,13 @@
 # Proximas fechas importantes 
 
 ## Sprint Actual  
-                 MER (Entidades, atributos, tipos de atributos, relaciones)
-                 Pantalla principal (Pixeles y paleta de colores)
-                 Creacion de proyecto
-                 Incorporacion del kanba al proyecto
+                 Arreglar GANTT
+                 Subir MER - MR 
+                 Subir Pantallas
+                 Todas las tablas creadas (Normalizado)
+                 Relaciones entre tablas 
+                 Datos de prueba
+                 Casos de prueba BD (Querys)
 
 Intregantes:
 Abel Villegas
