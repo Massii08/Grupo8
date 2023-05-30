@@ -1,6 +1,6 @@
 # Proximas fechas importantes 
 
-Fin sprint 3 - 20 junio 
+Fin sprint 3 - 13 junio 
 
 ## Sprint Actual  
                  Arreglar GANTT
