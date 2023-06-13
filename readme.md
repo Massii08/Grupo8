@@ -3,13 +3,15 @@
 Fin sprint 3 - 13 junio 
 
 ## Sprint Actual  
-                 Arreglar GANTT
-                 Subir MER - MR 
-                 Subir Pantallas
+                 Arreglar MR - Normalizacion 
+                 Arreglar Pantalla 2,3,4
                  Todas las tablas creadas (Normalizado)
                  Relaciones entre tablas 
-                 Datos de prueba
-                 Casos de prueba BD (Querys)
+                 Casos de prueba BD (Querys) sprint 3
+                 probar los casos sprint 2
+                 Hostear proyecto 
+                 Pagina login 
+                 Pagina registro 
 
 Intregantes:
 Abel Villegas
