@@ -23,4 +23,4 @@ Massimo Trapani
 PRSC: Matias Tixeira
 EVPR:Julieta Garcia Da Rosa
 EPDS:Mariana Dominguez
-BADA:Ezequiel Palladino
+BADA:Nadia Lopez
