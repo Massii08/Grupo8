@@ -1,17 +1,11 @@
 # Proximas fechas importantes 
 
-Fin sprint 3 - 13 junio 
+Fin sprint 4 - 29 de agosto 
 
 ## Sprint Actual  
-                 Arreglar MR - Normalizacion 
-                 Arreglar Pantalla 2,3,4
-                 Todas las tablas creadas (Normalizado)
-                 Relaciones entre tablas 
-                 Casos de prueba BD (Querys) sprint 3
-                 probar los casos sprint 2
-                 Hostear proyecto 
-                 Pagina login 
-                 Pagina registro 
+                 Recup contraseña
+                 pantalla principal(visual y funcional)
+                 registrar usuario (visual y funcional)
 
 Intregantes:
 Abel Villegas
