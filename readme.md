@@ -3,9 +3,7 @@
 Fin sprint 4 - 29 de agosto 
 
 ## Sprint Actual  
-                 Recup contraseña
-                 pantalla principal(visual y funcional)
-                 registrar usuario (visual y funcional)
+                 
 
 Intregantes:
 Abel Villegas
