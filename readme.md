@@ -3,7 +3,11 @@
 Fin sprint 4 - 29 de agosto 
 
 ## Sprint Actual  
-                 
+
+Arreglar las pantallas
+Terminar menu principal
+Ingresar materias
+subir archivos (visual y funcional)       
 
 Intregantes:
 Abel Villegas
